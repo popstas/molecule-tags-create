@@ -1,0 +1,6 @@
+---
+# tasks file for molecule-tags-create
+
+- debug:
+    msg: test molecule create
+  tags: sometag
